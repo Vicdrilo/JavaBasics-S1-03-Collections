@@ -1,0 +1,41 @@
+# Directori de sortida de Java (compilat)
+bin/
+build/
+
+# Eclipse specific files
+.classpath
+.project
+.settings/
+
+# Idea-specific files
+.idea/
+*.iml
+*.ipr
+*.iws
+
+# Mac specific meta data
+.DS_Store
+
+# Windows specific meta data
+Thumbs.db
+
+# Maven-specific files
+target/
+
+# Gradle-specific files
+.gradle/
+build/
+
+# Java specific files/dirs
+*.class
+*.war
+*.ear
+*.jar
+
+# Logs and temp files
+*.log
+*.out
+*.tmp
+
+# VS Code specific files
+.vscode/
